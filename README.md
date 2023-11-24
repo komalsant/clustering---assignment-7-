@@ -1,4 +1,4 @@
-# clustering---assignment-7-
+# clustering-(airlines data)-assignment-7-
 clustering for airlines data
 
 Perform clustering (hierarchical,K means clustering and DBSCAN) for the airlines data to obtain optimum number of clusters. 
